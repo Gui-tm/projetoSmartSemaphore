@@ -1,7 +1,7 @@
 # projetoSmartSemaphore
 Projeto de um Semáforo Inteligente proposto como atividade para o laboratório da disciplina de Arquitetura de Sistemas Digitais.
 
-#Ferramentas Utilizadas
+# Ferramentas
 - IDE: MicroCip Studio Atmel 7
 - Simulação do esquemático : Simulide
 Link de ambas as ferramentas:
